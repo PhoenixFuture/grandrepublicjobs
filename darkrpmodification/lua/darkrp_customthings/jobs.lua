@@ -1598,7 +1598,7 @@ TEAM_KC_ARF_1STLT = DarkRP.createJob("ARF | 1st LT", {
     end,
 })
 
-TEAM_ST_PVT_CCPL = DarkRP.createJob("ST_PVT_CCPL", {
+TEAM_ST_PVT_CCPL = DarkRP.createJob("ST | PVT-CCPL", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/shock_trooper.mdl"},
     description = [[False]],
@@ -1609,7 +1609,7 @@ TEAM_ST_PVT_CCPL = DarkRP.createJob("ST_PVT_CCPL", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "ST_PVT_CCPL",
+    category = "ST │ Company",
     canDemote = false,
     PlayerSpawn = function(ply)
         ply:SetHealth(100)
@@ -1619,7 +1619,7 @@ TEAM_ST_PVT_CCPL = DarkRP.createJob("ST_PVT_CCPL", {
     end,
 })
 
-TEAM_ST_SGT = DarkRP.createJob("ST_SGT", {
+TEAM_ST_SGT = DarkRP.createJob("ST | SGT", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/shock_trooper.mdl"},
     description = [[False]],
@@ -1630,7 +1630,7 @@ TEAM_ST_SGT = DarkRP.createJob("ST_SGT", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "ST_PVT_CCPL",
+    category = "ST │ Company",
     canDemote = false,
     PlayerSpawn = function(ply)
         ply:SetHealth(100)
@@ -1640,7 +1640,7 @@ TEAM_ST_SGT = DarkRP.createJob("ST_SGT", {
     end,
 })
 
-TEAM_ST_SMJ = DarkRP.createJob("ST_SMJ", {
+TEAM_ST_SMJ = DarkRP.createJob("ST | SMJ", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/shock_trooper.mdl"},
     description = [[False]],
@@ -1651,7 +1651,7 @@ TEAM_ST_SMJ = DarkRP.createJob("ST_SMJ", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "ST_SMJ",
+    category = "ST │ Company",
     canDemote = false,
     PlayerSpawn = function(ply)
         ply:SetHealth(100)
@@ -1661,7 +1661,7 @@ TEAM_ST_SMJ = DarkRP.createJob("ST_SMJ", {
     end,
 })
 
-TEAM_ST_LT = DarkRP.createJob("ST_LT", {
+TEAM_ST_LT = DarkRP.createJob("ST | LT", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/shock_officer.mdl"},
     description = [[False]],
@@ -1672,7 +1672,7 @@ TEAM_ST_LT = DarkRP.createJob("ST_LT", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "ST_LT",
+    category = "ST │ Company",
     canDemote = false,
     PlayerSpawn = function(ply)
         ply:SetHealth(100)
@@ -1682,7 +1682,7 @@ TEAM_ST_LT = DarkRP.createJob("ST_LT", {
     end,
 })
 
-TEAM_ST_1st_LT = DarkRP.createJob("ST_1st_LT", {
+TEAM_ST_1st_LT = DarkRP.createJob("ST | 1st LT", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/shock_officer.mdl"},
     description = [[False]],
@@ -1693,7 +1693,7 @@ TEAM_ST_1st_LT = DarkRP.createJob("ST_1st_LT", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "ST_LT",
+    category = "ST │ Company",
     canDemote = false,
     PlayerSpawn = function(ply)
         ply:SetHealth(100)
