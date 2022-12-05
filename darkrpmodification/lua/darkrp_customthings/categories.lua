@@ -37,7 +37,7 @@ DarkRP.createCategory{
 }
 
 DarkRP.createCategory{
-    name = "104th │ Company",
+    name = "104th │ Wolfpack",
     categorises = "jobs",
     startExpanded = true,
     color = Color(140, 140, 140),
