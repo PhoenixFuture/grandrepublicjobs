@@ -1703,6 +1703,216 @@ TEAM_ST_1st_LT = DarkRP.createJob("ST | 1st LT", {
     end,
 })
 
+TEAM_ST_RIOT_PVT_CCPL = DarkRP.createJob("ST RIOT | PVT-CCPL", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_pvt_ccpl",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(200)
+        ply:SetMaxArmor(200)
+    end,
+})
+
+TEAM_ST_RIOT_SGT = DarkRP.createJob("ST RIOT | SGT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_sgt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(215)
+        ply:SetMaxArmor(215)
+    end,
+})
+
+TEAM_ST_RIOT_SMJ = DarkRP.createJob("ST RIOT | SMJ", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_smj",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(230)
+        ply:SetMaxArmor(230)
+    end,
+})
+
+TEAM_ST_RIOT_LT = DarkRP.createJob("ST RIOT | LT", {
+    color = Color(170, 255, 255),
+    model = { "models/aussiwozzi/phase1clones/cg/riot_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(245)
+        ply:SetMaxArmor(245)
+    end,
+})
+
+TEAM_ST_RIOT_1st_LT = DarkRP.createJob("ST RIOT | 1st LT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/shock_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_1st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
+
+TEAM_ST_K9_PVT_CCPL = DarkRP.createJob("ST K9 | PVT-CCPL", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic" },
+    command = "give_job_st_pvt_ccpl",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(200)
+        ply:SetMaxArmor(200)
+    end,
+})
+
+TEAM_ST_K9_SGT = DarkRP.createJob("ST K9 | SGT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic" },
+    command = "give_job_st_sgt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(215)
+        ply:SetMaxArmor(215)
+    end,
+})
+
+TEAM_ST_K9_SMJ = DarkRP.createJob("ST K9 | SMJ", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic" },
+    command = "give_job_st_smj",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(230)
+        ply:SetMaxArmor(230)
+    end,
+})
+
+TEAM_ST_K9_LT = DarkRP.createJob("ST K9 | LT", {
+    color = Color(170, 255, 255),
+    model = { "models/aussiwozzi/phase1clones/cg/arf_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic" },
+    command = "give_job_st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(245)
+        ply:SetMaxArmor(245)
+    end,
+})
+
+TEAM_ST_K9_1st_LT = DarkRP.createJob("ST K9 | 1st LT", {
+    color = Color(170, 255, 255),
+    model = { "models/aussiwozzi/phase1clones/cg/arf_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic" },
+    command = "give_job_st_1st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
+
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
