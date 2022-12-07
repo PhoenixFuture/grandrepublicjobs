@@ -276,7 +276,7 @@ TEAM_ARC_CAPTAIN = DarkRP.createJob("ARC Trooper │ Captain", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_captain.mdl", "models/starwars/grady/legends_arcs/legends_arc_rino.mdl", "models/star/arc/arc_smoker.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl", "models/loudmantis/arc/cards.mdl"},
     description = [[]],
-    weapons = {"at_sw_dc15s_all", "at_sw_dc15a_all", "rw_sw_westarm5", "weapon_bactainjectorv", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "defibrillator", "seal6-c4", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "revival_tool", "seal6-c4", "weapon_cuff_elastic", "weapon_leash_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_captain",
     max = 0,
     salary = 100,
@@ -297,7 +297,7 @@ TEAM_ARC_1STLT1 = DarkRP.createJob("ARC Trooper │ 1st Lieutenant 1", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_lieutenant.mdl", "models/sky/custom/meister/meister.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = {"at_sw_dc15s_all", "at_sw_dc15a_all", "rw_sw_westarm5", "weapon_bactainjectorv", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "defibrillator", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_1stlt1",
     max = 0,
     salary = 100,
@@ -318,7 +318,7 @@ TEAM_ARC_LT2 = DarkRP.createJob("ARC Trooper │ Lieutenant 2", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_lieutenant.mdl", "models/mks/custom/drift/drift.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = {"at_sw_dc15s_all", "at_sw_dc15a_all", "rw_sw_westarm5", "weapon_bactainjectorv", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "defibrillator", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_1stlt2",
     max = 0,
     salary = 100,
@@ -339,7 +339,7 @@ TEAM_ARC_LT1 = DarkRP.createJob("ARC Trooper │ Lieutenant 1", {
     color = Color(153, 0, 0),
     model = {"models/starwars/sky/a-arc/a-arc-17.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = {"at_sw_dc15s_all", "at_sw_dc15a_all", "rw_sw_westarm5", "weapon_bactainjectorv", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "defibrillator", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_lt1",
     max = 0,
     salary = 100,
@@ -360,7 +360,7 @@ TEAM_ARC_SGT = DarkRP.createJob("ARC Trooper │ Sergeant", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_sergeant.mdl", "models/starwars/grady/legends_arcs/legends_arc_hydra.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = {"at_sw_dc15s_all", "at_sw_dc15a_all", "rw_sw_westarm5", "weapon_bactainjectorv", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "defibrillator", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_sgt",
     max = 0,
     salary = 100,
@@ -634,7 +634,7 @@ TEAM_KC_KEELI = DarkRP.createJob("Keeli", {
 
 TEAM_RC_LEAD = DarkRP.createJob("RC │ Boss", {
     color = Color(140, 140, 140),
-    model = {"models/memeious/104/trooper.mdl"},
+    model = {"models/sparrow/republic/clone/commando/delta/boss.mdl"},
     description = [[]],
     weapons = {"sw_datapad", "weapon_rpw_binoculars", "at_sw_dc15sa", "at_sw_dc17m", "gold", "realistic_hook"},
     command = "give_job_rc_lead",
@@ -655,7 +655,7 @@ TEAM_RC_LEAD = DarkRP.createJob("RC │ Boss", {
 
 TEAM_RC_ENGINEER = DarkRP.createJob("RC │ Fixer", {
     color = Color(140, 140, 140),
-    model = {"models/memeious/104/trooper.mdl"},
+    model = {"models/sparrow/republic/clone/commando/delta/fixer.mdl"},
     description = [[]],
     weapons = {"sw_datapad", "weapon_rpw_binoculars", "at_sw_dc15sa", "at_sw_dc17m", "gold", "realistic_hook", "seal6-c4", "weapon_extinguisher_infinite", "fort_datapad", "weapon_armorkit", "alydus_fusioncutter"},
     command = "give_job_rc_engineer",
@@ -676,7 +676,7 @@ TEAM_RC_ENGINEER = DarkRP.createJob("RC │ Fixer", {
 
 TEAM_RC_BREACHER = DarkRP.createJob("RC │ Scorch", {
     color = Color(140, 140, 140),
-    model = {"models/memeious/104/trooper.mdl"},
+    model = {"models/sparrow/republic/clone/commando/delta/scorch.mdl"},
     description = [[]],
     weapons = {"sw_datapad", "weapon_rpw_binoculars", "at_sw_dc15sa", "at_sw_dc17m", "gold", "realistic_hook", "seal6-c4", "weapon_extinguisher_infinite", "defuse_kit", "weapon_armorkit"},
     command = "give_job_rc_breacher",
@@ -697,7 +697,7 @@ TEAM_RC_BREACHER = DarkRP.createJob("RC │ Scorch", {
 
 TEAM_RC_MEDIC_SNIPER = DarkRP.createJob("RC │ Sev", {
     color = Color(140, 140, 140),
-    model = {"models/memeious/104/trooper.mdl"},
+    model = {"models/sparrow/republic/clone/commando/delta/sev.mdl"},
     description = [[]],
     weapons = {"sw_datapad", "weapon_rpw_binoculars", "at_sw_dc15sa", "at_sw_dc17m", "gold", "realistic_hook", "revival_tool", "rw_sw_nade_bacta", "weapon_bactainjector"},
     command = "give_job_rc_medic_sniper",
@@ -2628,6 +2628,237 @@ TEAM_ST_1st_LT = DarkRP.createJob("ST | 1st LT", {
     end,
 })
 
+TEAM_ST_Thorn = DarkRP.createJob("ST | Thorn", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/thorn.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "rw_sw_z6"},
+    command = "give_job_st_thorn",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
+
+
+TEAM_ST_RIOT_PVT_CCPL = DarkRP.createJob("ST RIOT | PVT-CCPL", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_riot_pvt_ccpl",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(200)
+        ply:SetMaxArmor(200)
+    end,
+})
+
+TEAM_ST_RIOT_SGT = DarkRP.createJob("ST RIOT | SGT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_riot_sgt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(215)
+        ply:SetMaxArmor(215)
+    end,
+})
+
+TEAM_ST_RIOT_SMJ = DarkRP.createJob("ST RIOT | SMJ", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_riot_smj",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(230)
+        ply:SetMaxArmor(230)
+    end,
+})
+
+TEAM_ST_RIOT_LT = DarkRP.createJob("ST RIOT | LT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/riot_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_riot_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(245)
+        ply:SetMaxArmor(245)
+    end,
+})
+
+TEAM_ST_RIOT_1st_LT = DarkRP.createJob("ST RIOT | 1st LT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/shock_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic"},
+    command = "give_job_st_riot_1st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Riot Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
+
+TEAM_ST_K9_PVT_CCPL = DarkRP.createJob("ST K9 | PVT-CCPL", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    command = "give_job_st_k9_pvt_ccpl",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ K9 ARF Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(200)
+        ply:SetMaxArmor(200)
+    end,
+})
+
+TEAM_ST_K9_SGT = DarkRP.createJob("ST K9 | SGT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    command = "give_job_st_k9_sgt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ K9 ARF Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(215)
+        ply:SetMaxArmor(215)
+    end,
+})
+
+TEAM_ST_K9_SMJ = DarkRP.createJob("ST K9 | SMJ", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_trooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    command = "give_job_st_k9_smj",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ K9 ARF Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(230)
+        ply:SetMaxArmor(230)
+    end,
+})
+
+TEAM_ST_K9_LT = DarkRP.createJob("ST K9 | LT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    command = "give_job_st_k9_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ K9 ARF Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(245)
+        ply:SetMaxArmor(245)
+    end,
+})
+
+TEAM_ST_K9_1st_LT = DarkRP.createJob("ST K9 | 1st LT", {
+    color = Color(170, 255, 255),
+    model = {"models/aussiwozzi/phase1clones/cg/arf_officer.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "weapon_leash_elastic"},
+    command = "give_job_st_k9_1st_LT",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ K9 ARF Platoon",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
