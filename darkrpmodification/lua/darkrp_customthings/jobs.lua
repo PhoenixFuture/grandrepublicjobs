@@ -276,7 +276,7 @@ TEAM_ARC_CAPTAIN = DarkRP.createJob("ARC Trooper │ Captain", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_captain.mdl", "models/starwars/grady/legends_arcs/legends_arc_rino.mdl", "models/star/arc/arc_smoker.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl", "models/loudmantis/arc/cards.mdl"},
     description = [[]],
-    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "revival_tool", "seal6-c4", "weapon_cuff_elastic", "weapon_leash_elastic", "rw_sw_dual_dc15s"},
+    weapons = {"rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "revival_tool", "seal6-c4", "weapon_cuff_elastic", "weapon_leash_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_captain",
     max = 0,
     salary = 100,
@@ -297,7 +297,7 @@ TEAM_ARC_1STLT1 = DarkRP.createJob("ARC Trooper │ 1st Lieutenant 1", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_lieutenant.mdl", "models/sky/custom/meister/meister.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = {"rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_1stlt1",
     max = 0,
     salary = 100,
@@ -318,7 +318,7 @@ TEAM_ARC_LT2 = DarkRP.createJob("ARC Trooper │ Lieutenant 2", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_lieutenant.mdl", "models/mks/custom/drift/drift.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = {"rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_1stlt2",
     max = 0,
     salary = 100,
@@ -339,7 +339,7 @@ TEAM_ARC_LT1 = DarkRP.createJob("ARC Trooper │ Lieutenant 1", {
     color = Color(153, 0, 0),
     model = {"models/starwars/sky/a-arc/a-arc-17.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = {"rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_lt1",
     max = 0,
     salary = 100,
@@ -360,7 +360,7 @@ TEAM_ARC_SGT = DarkRP.createJob("ARC Trooper │ Sergeant", {
     color = Color(153, 0, 0),
     model = {"models/starwars/grady/legends_arcs/legends_arc_sergeant.mdl", "models/starwars/grady/legends_arcs/legends_arc_hydra.mdl", "models/starwars/grady/212th_custom/212th_custom_hydra.mdl", "models/fisher/arc/501st_arc_avp_pilot.mdl"},
     description = [[]],
-    weapons = { "rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
+    weapons = {"rw_sw_westarm5", "weapon_bactainjector", "alydus_fusioncutter", "weapon_armorkit", "stunstick", "rw_sw_wristflame", "rw_sw_dual_dc17s", "rw_sw_nade_bacta", "rw_sw_nade_thermal", "rw_sw_nade_impact", "rw_sw_plx1", "rw_sw_valken38x", "jet_mk5", "shadow", "seal6-c4", "revival_tool", "weapon_cuff_elastic", "rw_sw_dual_dc15s"},
     command = "give_job_arc_sgt",
     max = 0,
     salary = 100,
@@ -1282,7 +1282,6 @@ TEAM_104TH_AU_CCPL = DarkRP.createJob("104th Airborne | CCPL", {
         ply:SetMaxArmor(200)
     end,
 })
-
 
 TEAM_104TH_AU_SGT = DarkRP.createJob("104th Airborne | SGT", {
     color = Color(140, 140, 140),
@@ -2649,7 +2648,6 @@ TEAM_ST_Thorn = DarkRP.createJob("ST | Thorn", {
     end,
 })
 
-
 TEAM_ST_RIOT_PVT_CCPL = DarkRP.createJob("ST RIOT | PVT-CCPL", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
@@ -2859,6 +2857,301 @@ TEAM_ST_K9_1st_LT = DarkRP.createJob("ST K9 | 1st LT", {
         ply:SetMaxArmor(260)
     end,
 })
+
+TEAM_NAVY_CREWMAN = DarkRP.createJob("Republic Navy | CM", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_black.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cm",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_CMFC = DarkRP.createJob("Republic Navy | CMFC", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_black.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cmfc",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_PO = DarkRP.createJob("Republic Navy | PO", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_blue.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_po",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_POFC = DarkRP.createJob("Republic Navy | POFC", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_blue.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_pofc",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_CPO = DarkRP.createJob("Republic Navy | CPO", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_blue.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cpo",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_CPOFC = DarkRP.createJob("Republic Navy | CPOFC", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_blue.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cpofc",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_WO = DarkRP.createJob("Republic Navy | WO", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_darkgrey.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_wo",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_WOFC = DarkRP.createJob("Republic Navy | WOFC", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_darkgrey.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_wofc",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_EN = DarkRP.createJob("Republic Navy | EN", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_darkgrey.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_en",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_LT = DarkRP.createJob("Republic Navy | LT", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_green.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_lt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_LTCMD = DarkRP.createJob("Republic Navy | LTCMD", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_green.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_ltcmd",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_CMD = DarkRP.createJob("Republic Navy | CMD", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_red.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cmd",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_CPT = DarkRP.createJob("Republic Navy | CPT", {
+    color = Color(170, 255, 255),
+    model = {"models/starwars/grady/navy/republic_navy_red_leader.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_cpt",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
+TEAM_NAVY_AD = DarkRP.createJob("Republic Navy | AD", {
+    color = Color(170, 255, 255),
+    model = {"models/star/navy/admiral/sirblitz/navy_admiral_white.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc17ext", "rw_sw_stun_dc17"},
+    command = "give_job_navy_ad",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Republic Navy",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(50)
+        ply:SetMaxArmor(50)
+    end,
+})
+
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
