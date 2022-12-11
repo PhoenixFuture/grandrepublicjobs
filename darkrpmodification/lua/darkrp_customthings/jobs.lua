@@ -741,7 +741,7 @@ TEAM_104TH_PFC_CCPL = DarkRP.createJob("104th | PFC", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
+    weapons = {"climb_swep2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
     command = "give_job_104th_pfc",
     max = 0,
     salary = 100,
@@ -762,7 +762,7 @@ TEAM_104TH_SPC = DarkRP.createJob("104th | SPC", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
     command = "give_job_104th_spc",
     max = 0,
     salary = 100,
@@ -783,7 +783,7 @@ TEAM_104TH_LCPL = DarkRP.createJob("104th | LCPL", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
     command = "give_job_104th_lcpl",
     max = 0,
     salary = 100,
@@ -804,7 +804,7 @@ TEAM_104TH_CPL = DarkRP.createJob("104th | CPL", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
     command = "give_job_104th_cpl",
     max = 0,
     salary = 100,
@@ -825,7 +825,7 @@ TEAM_104TH_CCPL = DarkRP.createJob("104th | CCPL", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17",},
     command = "give_job_104th_ccpl",
     max = 0,
     salary = 100,
@@ -846,7 +846,7 @@ TEAM_104TH_SGT = DarkRP.createJob("104th | SGT", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17",},
     command = "give_job_104th_sgt",
     max = 0,
     salary = 100,
@@ -867,7 +867,7 @@ TEAM_104TH_SMJ = DarkRP.createJob("104th | SMJ", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17",},
     command = "give_job_104th_smj",
     max = 0,
     salary = 100,
@@ -888,7 +888,7 @@ TEAM_104TH_LT = DarkRP.createJob("104th | LT", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
     command = "give_job_104th_lt",
     max = 0,
     salary = 100,
@@ -909,7 +909,7 @@ TEAM_104TH_1STLT = DarkRP.createJob("104th | 1stLT", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
     command = "give_job_104th_1stlt",
     max = 0,
     salary = 100,
@@ -930,7 +930,7 @@ TEAM_104TH_CPT = DarkRP.createJob("104th | CPT", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
     description = [[]],
-    weapons = {"jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
     command = "give_job_104th_cpt",
     max = 0,
     salary = 100,
@@ -1392,7 +1392,7 @@ TEAM_104TH_TEB_PFC = DarkRP.createJob("104th TEB | PFC", {
     color = Color(140, 140, 140),
     model = {"models/aussiwozzi/phase1clones/104th/officer.mdl"},
     description = [[]],
-    weapons = {"sw_datapad", "weapon_rpw_binoculars", "rw_sw_nade_thermal", "rw_sw_nade_incendiary", "rw_sw_dc15le", "rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_dc15a_o", "rw_sw_dc17", "realistic_hook", "weapon_armorkit", "fort_datapad", "alydus_fusioncutter", "",},
+    weapons = {"", "sw_datapad", "weapon_rpw_binoculars", "rw_sw_nade_thermal", "rw_sw_nade_incendiary", "rw_sw_dc15le", "rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_dc15a_o", "rw_sw_dc17", "realistic_hook", "weapon_armorkit", "fort_datapad", "alydus_fusioncutter", "",},
     command = "give_job_104th_teb_pfc",
     max = 0,
     salary = 100,
@@ -3151,6 +3151,35 @@ TEAM_NAVY_AD = DarkRP.createJob("Republic Navy | AD", {
         ply:SetMaxArmor(50)
     end,
 })
+
+--[[---------------------------------------------------------------------------
+Custom Chars
+---------------------------------------------------------------------------]]
+
+TEAM_104TH_Nade = DarkRP.createJob("104th | SGT Nade", {
+    color = Color(140, 140, 140),
+    model = {"models/aussiwozzi/phase1clones/104th/trooper.mdl"},
+    description = [[]],
+    weapons = {"climb_swep2", "jet_mk2", "sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "rw_sw_dc17", "rw_sw_dual_dc17",},
+    command = "give_job_104th_nade",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "104th │ Wolfpack",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(100)
+        ply:SetMaxHealth(100)
+        ply:SetArmor(215)
+        ply:SetMaxArmor(215)
+        ply:SetBodyGroup(kama, 1)
+        ply:SetBodyGroup(backpack, 2)
+        ply:SetBodyGroup(sidebag / Strap, 1)
+    end,
+})
+-- Erlaubnis bekommen von Noel
 
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
