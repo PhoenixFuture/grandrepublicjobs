@@ -224,7 +224,7 @@ DarkRP.createCategory{
 }
 
 DarkRP.createCategory{
-    name = "Navy",
+    name = "Republic Navy",
     categorises = "jobs",
     startExpanded = true,
     color = Color(152, 152, 152),
