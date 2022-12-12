@@ -2648,6 +2648,27 @@ TEAM_ST_Thorn = DarkRP.createJob("ST | Thorn", {
     end,
 })
 
+TEAM_ST_ARC = DarkRP.createJob("ST AR", {
+    color = Color(170, 255, 255),
+    model = {"models/joey/st/starctrooper.mdl"},
+    description = [[False]],
+    weapons = {"rw_sw_dc15a_o", "rw_sw_dc15s", "rw_sw_stun_dc15s", "jet_mk5", "rw_sw_dc17", "rw_sw_dual_dc17ext", "stunstick", "weapon_cuff_elastic", "rw_sw_dc15le", "rw_sw_nade_stun", "rw_sw_nade_thermal"},
+    command = "give_job_st_arc",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "ST │ Company",
+    canDemote = false,
+    PlayerSpawn = function(ply)
+        ply:SetHealth(150 )
+        ply:SetMaxHealth(150 )
+        ply:SetArmor(260)
+        ply:SetMaxArmor(260)
+    end,
+})
+
 TEAM_ST_RIOT_PVT_CCPL = DarkRP.createJob("ST RIOT | PVT-CCPL", {
     color = Color(170, 255, 255),
     model = {"models/aussiwozzi/phase1clones/cg/riot_trooper.mdl"},
