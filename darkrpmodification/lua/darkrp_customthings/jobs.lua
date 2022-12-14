@@ -529,7 +529,7 @@ TEAM_104TH_WARTHOG = DarkRP.createJob("Warthog", {
 
 TEAM_104TH_MJR = DarkRP.createJob("104th │ MJR", {
     color = Color(140, 140, 140),
-    model = {"models/starwars/sky/custom/barctrp_cs.mdl"},
+    model = {"models/aussiwozzi/phase1clones/104th/coyote_leader.mdl"},
     description = [[]],
     weapons = {"sw_datapad", "weapon_cuff_elastic", "weapon_rpw_binoculars", "rw_sw_dc15a", "rw_sw_dc15s", "rw_sw_dc15le", "realistic_hook", "jet_mk5", "rw_sw_dc17", "rw_sw_dual_dc17ext",},
     command = "give_job_104th_mjr",
