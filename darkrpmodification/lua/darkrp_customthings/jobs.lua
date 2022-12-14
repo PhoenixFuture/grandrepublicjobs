@@ -3195,9 +3195,9 @@ TEAM_104TH_Nade = DarkRP.createJob("104th | SGT Nade", {
         ply:SetMaxHealth(100)
         ply:SetArmor(215)
         ply:SetMaxArmor(215)
-        ply:SetBodyGroup(kama, 1)
-        ply:SetBodyGroup(backpack, 2)
-        ply:SetBodyGroup(sidebag / Strap, 1)
+        ply:SetBodyGroup(5, 1)
+        ply:SetBodyGroup(4, 2)
+        ply:SetBodyGroup(7, 1)
     end,
 })
 -- Erlaubnis bekommen von Noel
